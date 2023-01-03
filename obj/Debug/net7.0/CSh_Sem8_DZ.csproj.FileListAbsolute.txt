@@ -1,0 +1,15 @@
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\CSh_Sem8_DZ.csproj.AssemblyReference.cache
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\CSh_Sem8_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\CSh_Sem8_DZ.AssemblyInfoInputs.cache
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\CSh_Sem8_DZ.AssemblyInfo.cs
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\CSh_Sem8_DZ.csproj.CoreCompileInputs.cache
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\bin\Debug\net7.0\CSh_Sem8_DZ.exe
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\bin\Debug\net7.0\CSh_Sem8_DZ.deps.json
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\bin\Debug\net7.0\CSh_Sem8_DZ.runtimeconfig.json
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\bin\Debug\net7.0\CSh_Sem8_DZ.dll
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\bin\Debug\net7.0\CSh_Sem8_DZ.pdb
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\CSh_Sem8_DZ.dll
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\refint\CSh_Sem8_DZ.dll
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\CSh_Sem8_DZ.pdb
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\CSh_Sem8_DZ.genruntimeconfig.cache
+C:\Users\nadeg\Desktop\CSh\CSh_Sem8_DZ\obj\Debug\net7.0\ref\CSh_Sem8_DZ.dll
